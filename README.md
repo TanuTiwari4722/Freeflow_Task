@@ -27,7 +27,7 @@ This task contains two files:
 | Random Forest | 0.83 | 0.84 | 0.83 | 0.83 |
 | Naive Bayes | 0.83 | 0.83 | 0.83 | 0.83 |
 | BERT | 0.94 | 0.94 | 0.94 | 0.94 |
-|
+
 
 ## Problem Statement 2
 
