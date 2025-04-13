@@ -26,7 +26,7 @@ This task contains two files:
 | Logistic Regression | 0.88 | 0.87 | 0.88 | 0.87 |
 | Random Forest | 0.83 | 0.84 | 0.83 | 0.83 |
 | Naive Bayes | 0.83 | 0.83 | 0.83 | 0.83 |
-| BERT | 0.94 | 0.94 | 0.94 | 0.94 |
+| BERT | 0.93 | 0.93 | 0.93 | 0.93 |
 
 
 ## Problem Statement 2
